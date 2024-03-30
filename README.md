@@ -56,5 +56,17 @@ Step 02: Install the Store via iPhone Settings. (Open iPhone/iPad Settings > Gen
 Step 03: After you have installed the U04S Store, go back to the home screen and open the U04S App. 
 Step 04: After downloading the U04S Store, you have a free installation selection; however, if you want to receive the app without Revoke, you can purchase the premium signed unc0ver app. 
 
+#01 Install unc0ver Via Scarlet Store:
 
+![How to install unc0ver Jailbreak online via Scarlet iOS app](https://github.com/iOS17/unc0ver-jailbreak/assets/135683347/984a857d-c9df-4f80-8dd3-cac19b81c146)
+
+
+Scarlet is another iOS app manager app popular for directly installing IPA files without a PC. It is the same as the u04s store, the Cydia impactor alternative. Scarlet can seamlessly inject tweaks into an IPA using its repo system. 
+
+How to install: 
+Step 01:[Download and Install Scarlet Store](https://resources.usescarlet.com/install.php) 
+(If the above download link is revoked, you can use premium signing services like Scarlet Pro Installer)
+Step 02: Open the Scarlet App, then navigate into the Jailbreak tab and choose unc0ver
+Step 03: Tap on the Install button, then unc0ver will install on your device's home screen
+Step 04: Open unc0ver and do the jailbreak. (How to Jailbreak Guide)
 
