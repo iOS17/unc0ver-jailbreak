@@ -13,7 +13,7 @@ Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8
 
 This guide explains how to install Unc0ver using TrollStore(Permanent), Sideloadly, Esign, Gbox, and AltStore and jailbreak your iPhone or iPad on iOS 12-14.8.
 
-Before downloading the unc0ver jailbreak tool, please ensure it is compatible with your iPhone or iPad. If your device is included in the list below, you can jailbreak it. Otherwise, see Jailbreak Solutions for an actual Jailbreak experience.
+Before you download the unc0ver jailbreak tool, please make sure it is compatible with your iPhone or iPad. If your device is included in the list below, you can jailbreak it. Otherwise, see Jailbreak Solutions for an actual Jailbreak experience.
 
 ### Device compatibility
 
@@ -44,7 +44,7 @@ So you can install unc0ver jailbreak online without a PC; this is the most popul
 
 #01 Install unc0ver Via U04S Store:
 
-U04S Store is a dedicated store that is not part of the official unc0ver team. However, they do offer signing services for installing unc0ver jailbreak online. Also, if users have yet to gain experience installing and using unc0ver, a development community will assist customers with installing the jailbreak tool individually. According to our research, they have installed the unc0ver jailbreak tool on over 1000 handsets worldwide, and you can read their reviews on Twitter.
+U04S Store is a dedicated store that is not part of the official unc0ver team. However, they do offer to sign services for installing unc0ver jailbreak online. Also, if users have yet to gain experience installing and using unc0ver, a development community will assist customers with installing the jailbreak tool individually. According to our research, they have installed the unc0ver jailbreak tool on over 1000 handsets worldwide, and you can read their reviews on Twitter.
 
 [Download U04S Store](https://u04s.com)
 
@@ -69,4 +69,8 @@ Step 01:[Download and Install Scarlet Store](https://resources.usescarlet.com/in
 Step 02: Open the Scarlet App, then navigate into the Jailbreak tab and choose unc0ver
 Step 03: Tap on the Install button, then unc0ver will install on your device's home screen
 Step 04: Open unc0ver and do the jailbreak. (How to Jailbreak Guide)
+
+iOS 14	14.8, 14.7.1, 14.7, 14.6, 14.5.1, 14.5, 14.4.2, 14.4.1, 14.4, 14.3, 14.2.1, 14.2, 14.1, 14.0.1, 14.0
+iOS 13	13.7, 13.6.1, 13.6, 13.5.1, 13.5, 13.4.1, 13.4.1, 13.4, 13.3.1
+iOS 12	12.5.7, 12.5.6, 12.5.5, 12.4, 12.5.4, 12.5.3, 12.5.2, 12.5.1, 12.5, 12.4.9, 12.4.8, 12.4.7, 12.4.6, 12.4.5
 
