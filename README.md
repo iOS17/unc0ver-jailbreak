@@ -70,7 +70,22 @@ Step 02: Open the Scarlet App, then navigate into the Jailbreak tab and choose u
 Step 03: Tap on the Install button, then unc0ver will install on your device's home screen
 Step 04: Open unc0ver and do the jailbreak. (How to Jailbreak Guide)
 
+#02 Install unc0ver Via Scarlet AltStore:
+AltServer: only compatible with iOS 12.2 and up.
+
+01. Download & install the latest versions of AltServer Download
+02. Connect your iOS Device to your Mac or PC via USB
+03. Click AltStore/AltServer in the Menu Bar/System Tray
+04. Click Install AltStore
+05. Open Settings and navigate to General -> Device Management and verify AltStore
+06. Open iTunes (Windows or macOS Mojave or older) or Finder (macOS Catalina or newer) and enable syncing over WiFi
+07. Download the unc0ver IPA file and open it in AltStore.
+
+**Make sure your iOS Device and Mac or Windows PC are connected to the same WiFi network**
+
+
 iOS 14	14.8, 14.7.1, 14.7, 14.6, 14.5.1, 14.5, 14.4.2, 14.4.1, 14.4, 14.3, 14.2.1, 14.2, 14.1, 14.0.1, 14.0
 iOS 13	13.7, 13.6.1, 13.6, 13.5.1, 13.5, 13.4.1, 13.4.1, 13.4, 13.3.1
 iOS 12	12.5.7, 12.5.6, 12.5.5, 12.4, 12.5.4, 12.5.3, 12.5.2, 12.5.1, 12.5, 12.4.9, 12.4.8, 12.4.7, 12.4.6, 12.4.5
+iOS 11  11.0.1, 11.0.2, 11.0.3, 11.1, 11.1.1, 11.1.2, 11.2, 11.2.1, 11.2.2, 11.2.5, 11.2.6, 11.3, 11.3.1, 11.4
 
