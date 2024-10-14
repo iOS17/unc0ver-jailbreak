@@ -1,5 +1,5 @@
-# Unc0ver Jailbreak Guide
-How to Install Unc0ver Jailbreak via Esign, TrollStore, AltStore, Sideloadly, and Jailbreak iPhone or iPad (iOS 12–14.8), Also iOS 17–17.5.1 (iOS 18) Compatibility & Jailbreak Solutions.
+# Unc0ver Jailbreak Guide - iOS 18.1
+How to Install Unc0ver Jailbreak via Esign, TrollStore, AltStore, Sideloadly, and Jailbreak iPhone or iPad (iOS 12–14.8), Also iOS 17–17.6.1 (iOS 18 - 18.1) Compatibility & Jailbreak Solutions.
 
 unc0ver is a semi-untethered jailbreak tool that supports iOS 12 through iOS 14.8. The latest version of unc0ver jailbreak is v8.0.2, which includes bug fixes and improvements.
 
@@ -14,6 +14,12 @@ Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-
 Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8
 
 [Download unc0ver v8.0.2](https://ipa.zeejb.com)
+
+_____________________________________________________________
+Read More : 
+- [i4Tool for install Unc0ver + Jailbreak Apps On iOS 18.1 - iOS 17 ](https://github.com/iOS17/i4Tools)
+
+_____________________________________________________________
 
 This guide explains how to install Unc0ver using TrollStore(Permanent), Sideloadly, Esign, Gbox, and AltStore and jailbreak your iPhone or iPad on iOS 12-14.8.
 
