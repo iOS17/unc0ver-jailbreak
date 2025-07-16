@@ -1,11 +1,11 @@
-# Unc0ver Jailbreak Guide - iOS 18.1 - 18.5 beta Compatibility 
-How to Install Unc0ver Jailbreak via Esign, TrollStore, AltStore, Sideloadly, and Jailbreak an iPhone or iPad (iOS 12–14.8). Also, iOS 17–17.6.1 (iOS 18 - 18.1) Compatibility and Jailbreak Solutions.
+# Unc0ver Jailbreak Guide - iOS 18.1 - 18.6 beta 3 & iOS 26 beta 3 Compatibility 
+How to Install Unc0ver Jailbreak via Esign, TrollStore, AltStore, Sideloadly, and Jailbreak an iPhone or iPad (iOS 12–14.8). Additionally, iOS 17–17.7.2 (iOS 18 - 18.1, 18.2, 18.3, 18.4, 18.5) Compatibility and Jailbreak Solutions.
 
 unc0ver is a semi-untethered jailbreak tool that supports iOS 12 through iOS 14.8. The latest version of unc0ver jailbreak is v8.0.2, which includes bug fixes and improvements.
 
-Before downloading and installing the Unc0ver jailbreak tool on your iPhone, iPad, or Apple TV, check that it is compatible with your device using Zeejb's AI-powered Unc0ver jailbreak checker tool. 
+Before downloading and installing the Unc0ver jailbreak tool on your iPhone, iPad, or Apple TV, verify its compatibility with your device using Zeejb's AI-powered Unc0ver jailbreak checker tool. 
 
-[unc0ver jailbreak checker](https://bit.ly/unc0ver-Jailbreak-For-iOS-17)
+[unc0ver jailbreak checker](https://zeejb.com/ai/unc0ver-checker/)
 
 ## Download unc0ver v 8.0.2 iPA file
 
@@ -13,10 +13,11 @@ Changes:
 Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8
 Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8
 
-[Download unc0ver v8.0.2](https://ipa.zeejb.com)
+[Download unc0ver v8.0.2](https://ipa.zeejb.com/ipa.php?app=Unc0ver%20Jailbreak&id=4398)
 
 _____________________________________________________________
 Read More : 
+- [How to jailbreak iOS 26, Solutions, Cdyia Sileo Installation](https://github.com/iOS17/Jailbreak-iOS-26)
 - [i4Tool for install Unc0ver + Jailbreak Apps On iOS 18.4.1 - iOS 17.7.4 ](https://github.com/iOS17/i4Tools)
 - [iOS 18.5 Jailbreak Online](https://zeejb.com/jailbreak-ios-18-5/)
 
@@ -24,9 +25,9 @@ _____________________________________________________________
 
 This guide explains how to install Unc0ver using TrollStore (Permanent), Sideloadly, Esign, Gbox, and AltStore, and jailbreak your iPhone or iPad on iOS 12-14.8.
 
-Before downloading the unc0ver jailbreak tool, make sure it is compatible with your iPhone or iPad. If your device is included in the list below, you can jailbreak it. Otherwise, see Jailbreak Solutions for a real jailbreak experience.
+Before downloading the unc0ver jailbreak tool, ensure it is compatible with your iPhone or iPad. If your device is listed below, you can proceed with the jailbreak. Otherwise, refer to Jailbreak Solutions for a genuine jailbreak experience.
 
-**Check unc0ver Compatibility for iOS 18.5, 17.7.1 - iOS 15, 11 for free **- [AI Jailbreak Finder App](https://ipa.zeejb.com/jailbreak/)
+**Check unc0ver Compatibility for iOS 18.6, 17.7.2 - iOS 15, 11 for free **- [AI Jailbreak Finder App](https://ipa.zeejb.com/jailbreak/)
 
 ### Device compatibility
 
@@ -44,7 +45,7 @@ A12 - iPhone XS & XS Max / iPhone XR
 
 
 If your device is not included in the list above, try installing Jailbreak Solutions.
-
+[iOS 26 - iOS 11 Jailbreak Tweaak Master](https://udidmaster.com/pro/install.php)
 [Cripzi Jailbreak Signer for iOS 18 - 18.5](https://zeejb.com/cripzi-jailbreak-repo-signer/)
 [Pikzo Jailbreak Repo Extractor for iOS 17 - 18.5.1](https://zeejb.com/pikzo-jailbreak-ios-12-to-ios-13-1-2/)
 
@@ -54,30 +55,32 @@ If your device is not included in the list above, try installing Jailbreak Solut
 
 
 ## How to Install Unc0ver Jailbreak 
-There are numerous ways to install the Unc0ver jailbreak, which can be divided into two categories: online and with a PC. So, please go ahead and select how you want to install Unc0ver from the options listed below.
+There are several ways to install the Unc0ver jailbreak, which can be categorized into two primary methods: online and using a PC. So, please go ahead and select how you want to install Unc0ver from the options listed below.
 
-- Online Methods/Without PC
-- Offline/With PC Method
+- [Online Methods/Without PC](#online-methods-without-pc)
+- [Offline/With PC Method](#offline-with-pc-method)
 
 ### Install unc0ver Online 
 
-You can now install unc0ver jailbreak online without a PC; this is the most popular and easiest method. Thanks to the lead developer pwn20wnd and the unc0ver team, users can now easily install unc0ver online without coding or developer knowledge using the user-friendly UI and instructions.
+You can now install unc0ver jailbreak online without a PC; this is the most popular and easiest method. Thanks to the lead developer, pwn20wnd, and the unc0ver team, users can now easily install unc0ver online without requiring coding or developer knowledge, thanks to the user-friendly UI and clear instructions.
 
-#01 Install unc0ver Via U04S Store:
+Learn More [unc0ver jailbreak installation on iOS 26](https://uncover-jailbreak.com/ios-26-jailbreak/)
 
-U04S Store is a dedicated store that is not part of the official unc0ver team. However, they do offer to sign services for installing unc0ver jailbreak online. Also, if users have not yet gained experience installing and using unc0ver, a development community will assist customers with installing the jailbreak tool individually. According to our research, they have installed the unc0ver jailbreak tool on over 1,000 handsets worldwide. You can read their reviews on Twitter (https://x.com/u04sx).
+##01 Install unc0ver Via U04S Store:
+
+U04S Store is a dedicated store that is not part of the official unc0ver team. However, they do offer to sign services for installing unc0ver jailbreak online. Additionally, if users have not yet gained experience installing and using unc0ver, a development community will assist customers with the individual installation of the jailbreak tool. According to our research, they have installed the unc0ver jailbreak tool on over 1,000 handsets worldwide. You can read their reviews on Twitter (https://x.com/u04sx).
 
 [Download U04S Store](https://u04s.com)
 
 ### How to install:
 Step 01: Download and tap on [Install the U04S Store Profile](https://u04s.com/).
 Step 02: Install the Store via iPhone Settings. (Open iPhone/iPad Settings > General > Device and Profile Management > Find the Profile called 'U04S' Store > Then tap on the install button, then confirm the installation again.)
-<img width="100%" alt="iOS 17 -iOS 17.4.1 unc0ver jailbreak" src="https://github.com/iOS17/unc0ver-jailbreak/assets/135683347/cec3e228-a038-4cc6-a619-04bc54fb2712">
+<img width="100%" alt="iOS 17 -iOS 18.6 unc0ver jailbreak" src="https://github.com/iOS17/unc0ver-jailbreak/assets/135683347/cec3e228-a038-4cc6-a619-04bc54fb2712">
 
 Step 03: After installing the U04S Store, return to the home screen and open the U04S App. 
 Step 04: After downloading the U04S Store, you have a free installation option; however, if you want to receive the app without Restrictions, you can purchase the premium, signed unc0ver app. 
 
-### 02 Install unc0ver Via Scarlet Store:
+### 02 Install unc0ver via Scarlet Store:
 
 ![How to install unc0ver Jailbreak online via Scarlet iOS app](https://github.com/iOS17/unc0ver-jailbreak/assets/135683347/984a857d-c9df-4f80-8dd3-cac19b81c146)
 
@@ -87,12 +90,12 @@ Scarlet is another iOS app manager app popular for directly installing IPA files
 How to install: 
 Step 01:[Download and Install Scarlet Store](https://resources.usescarlet.com/install.php) 
 (If the above download link is revoked, you can use premium signing services like Scarlet Pro Installer)
-Step 02: Open the Scarlet App, then navigate into the Jailbreak tab and choose unc0ver
+Step 02: Open the Scarlet App, then navigate to the Jailbreak tab and choose unc0ver
 Step 03: Tap on the Install button, then unc0ver will install on your device's home screen
 Step 04: Open unc0ver and do the jailbreak. (How to Jailbreak Guide)
 
 ### 03 Install unc0ver Via AltStore:
-AltServer: only compatible with iOS 12.2 and up.
+AltServer: Compatible with iOS 12.2 and later.
 
 01. Download & install the latest versions of AltServer Download
 02. Connect your iOS Device to your Mac or PC via USB
