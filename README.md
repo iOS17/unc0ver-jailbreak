@@ -1,5 +1,5 @@
-# Unc0ver Jailbreak Guide - iOS 18.1 - 18.6 beta 3 & iOS 26 beta 3 Compatibility 
-How to Install Unc0ver Jailbreak via Esign, TrollStore, AltStore, Sideloadly, and Jailbreak an iPhone or iPad (iOS 12–14.8). Additionally, iOS 17–17.7.2 (iOS 18 - 18.1, 18.2, 18.3, 18.4, 18.5) Compatibility and Jailbreak Solutions.
+# Unc0ver Jailbreak Guide - iOS 18.1 - 18.6.1 & iOS 26 beta 7 Compatibility 
+How to Install Unc0ver Jailbreak via Esign, TrollStore, AltStore, Sideloadly, and Jailbreak an iPhone or iPad (iOS 12–14.8). Additionally, iOS 17–17.7.2 (iOS 18 - 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) Compatibility and Jailbreak Solutions.
 
 unc0ver is a semi-untethered jailbreak tool that supports iOS 12 through iOS 14.8. The latest version of unc0ver jailbreak is v8.0.2, which includes bug fixes and improvements.
 
@@ -18,30 +18,38 @@ Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8
 _____________________________________________________________
 Read More : 
 - [How to jailbreak iOS 26, Solutions, Cdyia Sileo Installation](https://github.com/iOS17/Jailbreak-iOS-26)
-- [i4Tool for install Unc0ver + Jailbreak Apps On iOS 18.4.1 - iOS 17.7.4 ](https://github.com/iOS17/i4Tools)
+- [i4Tool for install Unc0ver + Jailbreak Apps On iOS 18.6.1 - iOS 17.7.4 ](https://github.com/iOS17/i4Tools)
 - [iOS 18.5 Jailbreak Online](https://zeejb.com/jailbreak-ios-18-5/)
 
 _____________________________________________________________
 
 This guide explains how to install Unc0ver using TrollStore (Permanent), Sideloadly, Esign, Gbox, and AltStore, and jailbreak your iPhone or iPad on iOS 12-14.8.
 
-Before downloading the unc0ver jailbreak tool, ensure it is compatible with your iPhone or iPad. If your device is listed below, you can proceed with the jailbreak. Otherwise, refer to Jailbreak Solutions for a genuine jailbreak experience.
+Before you download the unc0ver jailbreak tool, please make sure it is compatible with your iPhone or iPad. If your device is listed below, you can proceed with the jailbreak. Otherwise, refer to Jailbreak Solutions for a genuine jailbreak experience.
 
-**Check unc0ver Compatibility for iOS 18.6, 17.7.2 - iOS 15, 11 for free **- [AI Jailbreak Finder App](https://ipa.zeejb.com/jailbreak/)
+**Check unc0ver Compatibility for iOS 18.6.1, 17.7.2 - iOS 15, 11 for free **- [AI Jailbreak Finder App](https://ipa.zeejb.com/jailbreak/)
 
 ### Device compatibility
 
-iPhone 12 Mini, iPhone 12, iPhone 12 and iPhone 12 Pro Max, iPhone11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone XS, XS Max, XR, iPhone X, iPhone 8, iPhone 8 Plus, iPhone 7, iPhone 7 Plus, iPhone 6s, iPhone 6s Plus, iPhone 6, iPhone 6 Plus, iPhone SE, iPhone 5s,12.9 iPad Pro (2nd gen.12.9)  iPad Pro, 1st gen.10.5 iPad Pro, 9.7 iPad Pro, iPad Air 2, iPad Air, iPad,5th gen, iPad mini 4, iPad mini 3, iPad mini 2, 3rd gen 2018 iPad Pro models & iPod touch 6G
+- iPhone 12 Mini, iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max
+- iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max
+- iPhone XS, XS Max, XR, iPhone X
+- iPhone 8, iPhone 8 Plus
+- iPhone 7, iPhone 7 Plus
+- iPhone 6s, iPhone 6s Plus, iPhone 6, iPhone 6 Plus
+- iPhone SE, iPhone 5s,12.9 iPad Pro (2nd gen.12.9), iPad Pro, 1st gen.10.5 iPad Pro, 9.7 iPad Pro,
+- iPad Air 2, iPad Air, iPad,5th gen, iPad mini 4, iPad mini 3
+- iPad mini 2, 3rd gen 2018 iPad Pro models & iPod touch 6G
 
 Note:
-iOS 14.4 – iOS 14.5.1 - only for A12 – A14
-A14 - Phone 12 & 12 Mini / iPhone 12 Pro & 12 Pro Max
-A13 - iPhone 11 / iPhone 11 Pro & 11 Pro Max / iPhone SE (2nd generation)
-A12 - iPhone XS & XS Max / iPhone XR
+- iOS 14.4 – iOS 14.5.1 - only for A12 – A14
+- A14 - Phone 12 & 12 Mini / iPhone 12 Pro & 12 Pro Max
+- A13 - iPhone 11 / iPhone 11 Pro & 11 Pro Max / iPhone SE (2nd generation)
+- A12 - iPhone XS & XS Max / iPhone XR
 
-iOS 14.6 – iOS 14.8 supports only for A12/A13 iPhones.
-A13 - iPhone 11 / iPhone 11 Pro & 11 Pro Max / iPhone SE (2nd generation)
-A12 - iPhone XS & XS Max / iPhone XR
+- iOS 14.6 – iOS 14.8 supports only A12/A13 iPhones.
+- A13 - iPhone 11 / iPhone 11 Pro & 11 Pro Max / iPhone SE (2nd generation)
+- A12 - iPhone XS & XS Max / iPhone XR
 
 
 If your device is not included in the list above, try installing Jailbreak Solutions.
